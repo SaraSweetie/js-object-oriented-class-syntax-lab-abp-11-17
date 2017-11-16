@@ -19,5 +19,5 @@ class Ceo  {
     this.training = training;
     this.homeState = homeState;
   }
-     hireEmployee() {returns "Welcome aboard!"}
+
 }
