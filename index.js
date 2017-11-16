@@ -13,11 +13,11 @@ class BoardMember {
 
 }
 
-class Ceo extends BoardMember {
+class Ceo  {
   constructor (name, training, homeState) {
     this.name = name;
     this.training = training;
     this.homeState = homeState;
   }
-    super.hireEmployee() {returns "Welcome aboard!"}
+
 }
