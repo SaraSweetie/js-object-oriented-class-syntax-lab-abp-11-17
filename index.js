@@ -13,7 +13,7 @@ class BoardMember {
 
 }
 
-class Ceo {
+class Ceo extends BoardMember {
   constructor (name, training, homeState) {
     this.name = name;
     this.training = training;
